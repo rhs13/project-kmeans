@@ -1,2 +1,7 @@
 sklearn
 datetime
+numpy
+pandas
+seaborn
+matplotlib.pyplot
+plotly.express
